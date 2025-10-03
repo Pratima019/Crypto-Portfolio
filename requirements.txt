@@ -119,7 +119,7 @@ notebook==7.3.2
 notebook_shim==0.2.4
 numpy==2.0.2
 onnx==1.17.0
-onnxruntime==1.19.2
+# onnxruntime==1.19.2
 opencv-python==4.10.0.84
 opencv-python-headless==4.11.0.86
 opt_einsum==3.4.0
